@@ -1,5 +1,3 @@
-import logo from './logo.svg';
-import './App.css';
 import{Nav} from './Mycomponents/Nav'
 import {Hero} from './Mycomponents/Hero'
 import Data from './Mycomponents/Data'
